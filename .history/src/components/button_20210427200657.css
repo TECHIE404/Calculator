@@ -1,0 +1,7 @@
+.buttton{
+    display: flex;
+    height:4em;
+    flex: 1;
+    justify-content: center;
+    
+}
